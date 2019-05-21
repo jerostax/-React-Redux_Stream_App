@@ -1,5 +1,5 @@
-### Live streaming App (inspired from twitch) with Udemy Classes
+# Live streaming App (inspired from twitch) with Udemy Classes
 
 ## Depedencies
-`npm install`
+`npm install` <br>
 react-router-dom
