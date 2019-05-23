@@ -2,4 +2,4 @@
 
 ## Depedencies
 `npm install` <br>
-react-router-dom
+react-router-dom / redux / react-reux
