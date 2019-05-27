@@ -27,6 +27,12 @@
       "description": "test stream",
       "userId": "105288013924103484598",
       "id": 5
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "test",
+      "userId": "105288013924103484598",
+      "id": 6
     }
   ]
 }
