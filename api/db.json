@@ -4,6 +4,11 @@
       "title": "stream",
       "description": "mystream",
       "id": 1
+    },
+    {
+      "description": "de ouf",
+      "title": "un autre stream",
+      "id": 2
     }
   ]
 }
