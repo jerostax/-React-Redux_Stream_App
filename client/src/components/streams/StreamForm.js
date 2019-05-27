@@ -33,7 +33,7 @@ class StreamForm extends React.Component {
       <form onSubmit={this.props.handleSubmit(this.onSubmit)} className="ui form error">
         <Field name="title" component={this.renderInput} label="Entrez le titre" />
         <Field name="description" component={this.renderInput} label="Entrez la déscription" />
-        <button className="ui button primary">Créer un Stream</button>
+        <button className="ui button primary">Soumettre</button>
       </form>
     );
   }
