@@ -7,3 +7,7 @@ react-router-dom / redux / react-redux / redux-form@8.1.0 / axios / redux-thunk 
 ## API folder Dependencies
 `npm install`<br>
 json-server
+
+## RMTPserver folder Dependencies
+`npm install`<br>
+node-media-server
